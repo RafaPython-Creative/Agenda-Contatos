@@ -33,8 +33,8 @@ All operations are performed through a simple interactive text menu in the termi
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/contact-agenda.git
-cd contact-agenda
+git clone https://github.com/your-username/contact-agenda.git](https://github.com/RafaPython-Creative/Agenda-Contatos
+
 
 ```
 
@@ -73,6 +73,6 @@ Todas as operações são feitas por meio de um menu interativo no terminal.
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/agenda-contatos.git
-cd agenda-contatos
+git clone https://github.com/seu-usuario/agenda-contatos.git](https://github.com/RafaPython-Creative/Agenda-Contatos
+
 ```
